@@ -8,7 +8,7 @@ The app demonstrates a complete authentication flow with clean UI, smooth naviga
 ## 🔗 Live Demo
 
 👉 **Hosted Link:**  
-👉 **GitHub Repository:** 
+👉 **GitHub Repository:** https://github.com/Humnashinkhan/Landing_Screen
 
 ---
 
