@@ -1,16 +1,70 @@
-# React + Vite
+# PopX – React UI Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect mobile web application built using **React + Vite**, based on the provided **Adobe XD design**.  
+The app demonstrates a complete authentication flow with clean UI, smooth navigation, and responsive layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## React Compiler
+👉 **Hosted Link:**  
+👉 **GitHub Repository:** 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📱 Screens Implemented
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Welcome Page
+- Registration Page
+- Login Page
+- Account Settings Page
+
+All screens are designed to match the Adobe XD design with a **mobile-first UI**, centered on the webpage.
+
+---
+
+## ✨ Features
+
+- ⚛️ Built with **React (Vite)**
+- 🎨 Pixel-perfect UI based on Adobe XD
+- 📱 Mobile app interface centered on desktop
+- 🔐 Registration & Login flow using LocalStorage
+- 🔄 Seamless navigation with React Router
+- 🧼 Clean, readable, and well-structured code
+- 🚀 Deployed on **Vercel**
+
+---
+
+## 🔐 Authentication Flow
+
+1. **Welcome Page**
+   - Create Account
+   - Login
+
+2. **Registration**
+   - Full Name
+   - Phone Number
+   - Email Address
+   - Password
+   - Company Name
+   - Are you an Agency? (Yes / No)
+
+3. **Login**
+   - Login using registered email & password
+
+4. **Account Settings**
+   - Displays user name & email
+   - Profile image layout as per design
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Vite**
+- **React Router DOM**
+- **LocalStorage**
+
+---
+
+
