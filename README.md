@@ -8,6 +8,7 @@ The app demonstrates a complete authentication flow with clean UI, smooth naviga
 ## 🔗 Live Demo
 
 👉 **Hosted Link:**  https://landing-screen-delta.vercel.app/
+
 👉 **GitHub Repository:** https://github.com/Humnashinkhan/Landing_Screen
 
 ---
